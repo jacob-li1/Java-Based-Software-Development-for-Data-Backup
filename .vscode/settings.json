@@ -3,7 +3,7 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "e:\\commons-io-2.6.jar",
-        "e:\\log4j-1.2.15.jar"
+        "E:\\commons-io-2.6.jar",
+        "E:\\log4j-1.2.15.jar"
     ]
 }
